@@ -164,6 +164,7 @@
 - [Act2Goal](https://arxiv.org/abs/2512.23541)
 - [DiT4DiT](https://arxiv.org/abs/2603.10448)
 - [Fast-WAM](https://arxiv.org/abs/2603.16666)
+- [ST-WAM](https://arxiv.org/abs/2607.28993) ([Project](https://thu-wangmx.github.io/st-wam/), [Code](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model))
 - [WAV](https://arxiv.org/abs/2604.14732)
 
 ## 2.8 Diffusion-Based · Multi-Stream · Shared Representation
